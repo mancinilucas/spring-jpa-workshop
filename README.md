@@ -20,4 +20,4 @@ Nessa aplicação foi implementado o modelo de domínio, estruturado nas seguint
 
 Lucas Mancini
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/lucasgmancini/)
+[Linkedin](https://www.linkedin.com/in/lucasgmancini/)
